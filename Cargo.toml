@@ -1,0 +1,9 @@
+[package]
+name = "mastosky"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+megalodon = "0.13.5"
+thiserror = "1.0.61"
+tokio = "1.37.0"
